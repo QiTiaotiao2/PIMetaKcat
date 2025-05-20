@@ -1,5 +1,3 @@
-# PIMetaKcat
-PIMetaKcat is a physics-informed meta-learning framework for accurate, few-shot prediction of temperature-dependent enzyme kcat values.
 Description:
 This repository contains the official implementation of PIMetaKcat, a physics-informed meta-learning framework for predicting the catalytic turnover number (kcat) of enzymes, with explicit modeling of temperature dependence. The model combines advanced molecular embeddings (ESM-2, ProtT5, ChemBERTa) with a task-adaptive meta-learning strategy and a physics-constrained loss based on the Arrhenius equation to achieve accurate and robust prediction under few-shot and temperature-varying scenarios.
 
